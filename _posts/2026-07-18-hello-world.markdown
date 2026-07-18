@@ -4,7 +4,7 @@ title:      "Hello World"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2026-07-18 18:35:00
 author:     "Kakaa"
-header-img: "img/bizhi.png"
+header-img: "img/touxiang-xxh.jpg"
 catalog: true
 tags:
     - Meta
