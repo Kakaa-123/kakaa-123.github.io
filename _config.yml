@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Kakaa
-zhihu_username: Kakaa
-github_username: Kakaa
-twitter_username: Kakaa
+# weibo_username: Kakaa
+zhihu_username: 3200446064
+github_username: Kakaa-123
+# twitter_username: Kakaa
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
